@@ -1,6 +1,6 @@
-# 高性价比人生指南（HowToLiveBetter）协议站点
+# 人生指南（HowToLiveBetter）协议站点
 
-HarmonyOS 应用「高性价比人生指南」（`com.xmgod.howtolivebetter`）的公开协议页面，通过 GitHub Pages 发布。
+HarmonyOS 应用「人生指南」（`com.xmgod.howtolivebetter`）的公开协议页面，通过 GitHub Pages 发布。
 
 ## 页面
 
@@ -25,7 +25,7 @@ HarmonyOS 应用「高性价比人生指南」（`com.xmgod.howtolivebetter`）�
 ## 应用要点（协议内容依据）
 
 - 离线优先：无账号、不联网、不申请任何系统权限、无云同步、无第三方 SDK、无广告/统计/支付。
-- 正文内置：应用打包《高性价比人生指南》原书（33 节、614 条），来源开源项目，正文遵循 Unlicense。
+- 正文内置：应用打包《人生指南》原书（33 节、614 条），来源开源项目，正文遵循 Unlicense。
 - 本地数据仅阅读状态：收藏、最近阅读、阅读进度（`reading.db`）与阅读偏好（`reading-settings`），全部保存在设备本地应用沙箱。
 
 ## 版本记录
